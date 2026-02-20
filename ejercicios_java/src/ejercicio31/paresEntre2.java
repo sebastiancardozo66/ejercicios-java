@@ -1,7 +1,7 @@
 package ejercicio31;
 
 import javax.swing.JOptionPane;
-public class paresEntre2 {
+public class ParesEntre2 {
 //Escribir un programa que imprima todos los números pares entre dos números que se le pidan al usuario.
     public static void main(String[] args) {
 

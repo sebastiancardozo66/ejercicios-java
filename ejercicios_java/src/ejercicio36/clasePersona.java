@@ -1,6 +1,6 @@
 package ejercicio36;
 
-public class clasePersona {
+public class ClasePersona {
     
     private String nombre;
     private String apellido;
@@ -10,7 +10,7 @@ public class clasePersona {
     private char genero;
 
     // Constructor
-    public clasePersona(String nombre, String apellido, String documento, int anioNacimiento, 
+    public ClasePersona(String nombre, String apellido, String documento, int anioNacimiento, 
                     String paisNacimiento, char genero) {
         this.nombre = nombre;
         this.apellido = apellido;
@@ -26,8 +26,8 @@ public class clasePersona {
         System.out.println("Apellido: " + apellido);
         System.out.println("Documento: " + documento);
         System.out.println("Año de nacimiento: " + anioNacimiento);
-        System.out.println("País de nacimiento: " + paisNacimiento);
-        System.out.println("Género: " + genero);
+        System.out.println("Pais de nacimiento: " + paisNacimiento);
+        System.out.println("Genero: " + genero);
         System.out.println("----------------------------");
     }
 
@@ -35,8 +35,8 @@ public class clasePersona {
     public static void main(String[] args) {
 
     
-        clasePersona p1 = new clasePersona("Sebastián", "Cardozo", "12345678", 2004, "Colombia", 'H');
-        clasePersona p2 = new clasePersona("Laura", "Gómez", "87654321", 2002, "Colombia", 'M');
+        ClasePersona p1 = new ClasePersona("Sebastian", "Cardozo", "12345678", 2004, "Colombia", 'H');
+        ClasePersona p2 = new ClasePersona("Laura", "Gómez", "87654321", 2002, "Colombia", 'M');
 
         
         p1.imprimirDatos();

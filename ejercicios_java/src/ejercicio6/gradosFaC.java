@@ -1,7 +1,7 @@
 package ejercicio6;
 
 import javax.swing.JOptionPane;
-public class gradosFaC {
+public class GradosFaC {
 //Escribir un programa que convierta un valor dado en grados Fahrenheit a grados Celsius.
     public static void main(String[] args) {
 

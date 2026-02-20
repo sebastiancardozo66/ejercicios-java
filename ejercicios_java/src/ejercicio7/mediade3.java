@@ -1,7 +1,7 @@
 package ejercicio7;
 
 import javax.swing.JOptionPane;
-public class mediade3 {
+public class MediaDe3 {
 //Calcular la media de tres números pedidos por teclado
     public static void main(String[] args) {
 

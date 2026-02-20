@@ -1,7 +1,7 @@
 package ejercicio34;
 
 import javax.swing.JOptionPane;
-public class primoONo {
+public class PrimoONo {
 //Escribe un programa que diga si un número introducido por teclado es o no primo. 
 // Un número primo es aquel que sólo es divisible entre él mismo y la unidad.
      public static void main(String[] args) {

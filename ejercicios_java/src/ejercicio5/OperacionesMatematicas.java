@@ -1,7 +1,7 @@
 package ejercicio5;
 
 import javax.swing.JOptionPane;
-public class operacionesMat {
+public class OperacionesMatematicas {
 //Dados dos números, mostrar la suma, resta, división y multiplicación de ambos.
     public static void main(String[] args) {
 

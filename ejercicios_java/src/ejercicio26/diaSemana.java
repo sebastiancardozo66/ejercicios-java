@@ -1,7 +1,7 @@
 package ejercicio26;
 
 import javax.swing.JOptionPane;
-public class diaSemana {
+public class DiaSemana {
 //Realiza un programa que pida el dí­a de la semana (del 1 al 7) y escriba el dí­a correspondiente. Si introducimos otro número nos da un error.
     public static void main(String[] args) {
 

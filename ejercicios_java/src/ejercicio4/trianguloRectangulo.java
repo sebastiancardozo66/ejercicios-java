@@ -1,7 +1,7 @@
 package ejercicio4;
 
 import javax.swing.JOptionPane;
-public class trianguloRectangulo {
+public class TrianguloRectangulo {
 //Dados los catetos de un triángulo rectángulo, calcular su hipotenusa.
      public static void main(String[] args) {
         Float cateto1 = Float.parseFloat(JOptionPane.showInputDialog("Ingrese el primer cateto:"));

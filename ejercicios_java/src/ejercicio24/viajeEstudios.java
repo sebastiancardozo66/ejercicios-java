@@ -1,7 +1,7 @@
 package ejercicio24;
 
 import javax.swing.JOptionPane;
-public class viajeEstudios {
+public class ViajeEstudios {
 //El director de una escuela está organizando un viaje de estudios, y requiere determinar cuánto debe cobrar a cada alumno y cuánto debe pagar a la 
 // compañía de viajes por el servicio. La forma de cobrar es la siguiente:
 

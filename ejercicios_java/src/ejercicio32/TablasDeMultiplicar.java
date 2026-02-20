@@ -1,7 +1,7 @@
 package ejercicio32;
 
 import javax.swing.JOptionPane;
-public class tablasDeM {
+public class TablasDeMultiplicar {
 //Realizar una algoritmo que muestre la tabla de multiplicar de un número introducido por teclado.
     public static void main(String[] args) {
 

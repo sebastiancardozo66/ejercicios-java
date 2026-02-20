@@ -1,7 +1,7 @@
 package ejercicio14;
 
 import javax.swing.JOptionPane;
-public class algoritmoM {
+public class AlgoritmoMayor {
 //Algoritmo que pida dos números e indique si el primero es mayor que el segundo.
     public static void main(String[] args) {
 

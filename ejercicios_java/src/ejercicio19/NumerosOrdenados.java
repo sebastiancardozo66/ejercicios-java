@@ -1,7 +1,7 @@
 package ejercicio19;
 
 import javax.swing.JOptionPane;
-public class numerosOrd {
+public class NumerosOrdenados {
 //Algoritmo que pida tres números y los muestre ordenados (de mayor a menor)
     public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package ejercicio3;
 
 import javax.swing.JOptionPane;
 //Calcular el perímetro y área de un rectángulo dada su base y su altura.
-public class rectangulo {
+public class Rectangulo {
     public static void main(String[] args) {
         String baseTexto = JOptionPane.showInputDialog(null, "Ingrese la base del rectangulo:");
         String alturaTexto = JOptionPane.showInputDialog(null, "Ingrese la altura del rectangulo:");

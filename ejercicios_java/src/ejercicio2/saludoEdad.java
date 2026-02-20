@@ -2,7 +2,7 @@ package ejercicio2;
 
 import javax.swing.JOptionPane;
 //Escribir un programa que pregunte al usuario su edad, y luego le diga cuántos años tendrá en 10 años.
-public class saludoEdad {
+public class SaludoEdad {
     public static void main(String[] args) {
         String edadTexto = JOptionPane.showInputDialog(null, "¿Cuántos años tienes?");
         

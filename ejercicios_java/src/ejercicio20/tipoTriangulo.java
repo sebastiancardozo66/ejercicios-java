@@ -1,7 +1,7 @@
 package ejercicio20;
 
 import javax.swing.JOptionPane;
-public class tipoTriangulo {
+public class TipoTriangulo {
 //Programa que lea 3 datos de entrada A, B y C. Estos corresponden a las dimensiones de los lados de un triángulo. 
 // El programa debe determinar que tipo de triángulo es, teniendo en cuenta:
 

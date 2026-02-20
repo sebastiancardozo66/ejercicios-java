@@ -1,7 +1,7 @@
 package ejercicio33;
 
 import javax.swing.JOptionPane;
-public class resultadoPot {
+public class ResultadoPotencia {
 //Escribe un programa que dados dos números, uno real (base) y un entero positivo (exponente), saque por pantalla el resultado de la potencia.
 //  No se puede utilizar el operador de potencia.
     public static void main(String[] args) {

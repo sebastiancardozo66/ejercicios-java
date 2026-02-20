@@ -1,7 +1,7 @@
 package ejercicio15;
 
 import javax.swing.JOptionPane;
-public class algoritmo {
+public class Algoritmo {
 //Algoritmo que pida un número y diga si es positivo, negativo o 0.
     public static void main(String[] args) {
 

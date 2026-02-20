@@ -1,7 +1,7 @@
 package ejercicio10;
 
 import javax.swing.JOptionPane;
-public class calificacion {
+public class Calificacion {
 //Un alumno desea saber cual será su calificación final en la materia de Estructura de Datos. Dicha calificación se compone de los siguientes porcentajes:
 // -55% del promedio de sus tres calificaciones parciales.
 // -30% de la calificación del examen final.

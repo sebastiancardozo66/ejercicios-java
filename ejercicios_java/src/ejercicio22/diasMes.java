@@ -1,7 +1,7 @@
 package ejercicio22;
 
 import javax.swing.JOptionPane;
-public class diasMes {
+public class DiasMes {
 //Escribe un programa que reciba un mes y diga cuantos dias tiene este mes.
     public static void main(String[] args) {
 
